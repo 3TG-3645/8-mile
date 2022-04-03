@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrat/Montserrat-Italic-VariableFont_wght.ttf);
+}
+
+a{text-decoration: none;}
+a:visited{color: rgb(0, 0, 0); font-weight: bolder;}
+a:hover{color: yellow;}
+h1{text-align: left;}
+abbr{text-decoration: none;}
+iframe#Video{border: 5px; border-radius: 10px;}
+img{border: 5px; border-radius: 10px;}
+img#eminemlogo{display: block; margin-right: auto; margin-left: auto;}
+a#loseyourself{color: rgb(121, 21, 21);}
+a#loseyourself:hover{color: yellow;}
+a#ls8mile{color: rgb(121, 21, 21);}
+a#ls8mile:hover{color: yellow;}
+a#lsnomination{color: rgb(121, 21, 21);}
+a#lsnomination:hover{color: yellow;}
+a#eightmileroad{color: rgb(121, 21, 21);}
+a#eightmileroad:hover{color: yellow;}
+.rel{color: white; font-family: Montserrat; font-weight: bolder; border: 5px; border-width: 6px; display: inline; border-inline-width: auto;}
+.rel:visited{color: white;}
+.rel:hover{color: yellow;}
